@@ -1,4 +1,5 @@
-Instructions 
+Instructions : - 
+
 1. Install Dependencies
 Ensure you have Python 3.x installed. Then, install the required libraries using the following command:
 bash
