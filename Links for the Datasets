@@ -1,0 +1,13 @@
+below are the links for the datasets :-
+
+fasttext : 
+
+https://fasttext.cc/docs/en/crawl-vectors.html
+
+word2vec :
+
+https://code.google.com/archive/p/word2vec/
+
+Additional Resources
+Gensim for Loading Models: Gensim supports loading these embeddings for use in Python. You can refer to their documentation here: https://radimrehurek.com/gensim/models/keyedvectors.html
+Open Source Repository for Embeddings: https://nlp.stanford.edu/projects/glove/ (alternative embeddings like GloVe).
